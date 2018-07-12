@@ -29,7 +29,7 @@ var config =
             1 = Multiple progressbars
             2 = Collapsed progressbars
      */
-    progressBarType: 3,
+    progressBarType: 1,
  
     /*
         Here you can disable some of progressbars.
@@ -66,21 +66,18 @@ var config =
     */
     loadingMessages:
     [
-        "Picking up snails... &#x1f40c;",
-        "Placing snails on the map... &#x1f40c;",
-        "Crushing a snail.... &#x1f40c; &#x1f528;",
-        "Stepping on a snail.... &#x1f40c; &#x1f462;",
-        "Putting slugs back into their shell.. &#x1f41a.",
-        "Playing cricket with a snail... &#x1f3cf",
-        "Programming snail AI... &#x1f9e0;",
-        "Selling snails to a french guy. &#x1f956;",
-        "Eating FiveM's mascot snail... &#x1f374;",
-        "Syntasu is snailsome! &#x1f60d;",
-        "Oof!",
-        "Learning a snail to drive... &#x1f697;",
-        "Golfing using a snail... &#x1f3cc;",
-        "Calling PETA for animal abuse... &#x1f4f1;",
-        "No snails were hurt during this loadscreen. &#x1f691;",
+        "Zachowaj kulture",
+        "Developerzy to Bartixxx | Domix | RaXMT200!",
+        "Skryptami zajmuje sie Bartixxx!",
+        "Jesli masz jakis pomysl, napisz to na specjalnym kanale na Discordzie!",
+        "Regulamin na Discordzie!",
+        "Nie kradnij radiolek, moze to byc karane nawet banem!",
+        "Nie kradnij helikopterow, moze to byc karane nawet banem!",
+        "Witamy na NeedRP",
+        "Zabrania sie - RDM | VDM",
+        "Nie masz co robic z pieniedzmi? Chetnie przyjmiemy donejta!",
+        "Nasz Discord - https://discord.gg/evEwZdD",
+     
     ],
  
     /*
