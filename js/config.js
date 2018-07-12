@@ -29,7 +29,7 @@ var config =
             1 = Multiple progressbars
             2 = Collapsed progressbars
      */
-    progressBarType: 1,
+    progressBarType: 3,
  
     /*
         Here you can disable some of progressbars.
@@ -101,10 +101,7 @@ var config =
     */
     music:
     [
-        "OZcoDQybozk", "ap1wPAMOjXs", "H0h6GEFek5w",
-        "Nds2d2YsFsw", "Yb4U3BB-3iQ", "XVnvgycRU9k",
-        "OZcoDQybozk", "0z3WUfDfryA", "hDCeAWNWhfU",
-        "vWdjWYhEONA", "SoMeB4QBVug", "8sV6AT6jVuI",
+        "dyT3MKaJAPc"
     ],
  
  
