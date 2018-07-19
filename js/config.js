@@ -29,7 +29,7 @@ var config =
             1 = Multiple progressbars
             2 = Collapsed progressbars
      */
-    progressBarType: 1,
+    progressBarType: 2,
  
     /*
         Here you can disable some of progressbars.
@@ -66,14 +66,13 @@ var config =
     */
     loadingMessages:
     [
-        "Zachowaj kulture",
-        "Developerzy to Bartixxx | Domix | RaXMT200!",
-        "Skryptami zajmuje sie Bartixxx!",
-        "Jesli masz jakis pomysl, napisz to na specjalnym kanale na Discordzie!",
-        "Regulamin na Discordzie!",
-        "Nie kradnij radiolek, moze to byc karane nawet banem!",
-        "Nie kradnij helikopterow, moze to byc karane nawet banem!",
         "Witamy na NeedRP",
+        "Zachowaj kulture",
+        "Developerzy to Bartixxx | DomixGaming",
+        "Skryptami zajmuje sie Bartixxx!",
+        "Jesli masz jakis pomysł, napisz to na specjalnym kanale na Discordzie!",
+        "Regulamin na Discordzie!",
+        "Nie kradnij radiolek, może to byc karane nawet banem!",
         "Zabrania sie - RDM | VDM",
         "Nie masz co robic z pieniedzmi? Chetnie przyjmiemy donejta!",
         "Nasz Discord - https://discord.gg/evEwZdD",
@@ -98,7 +97,7 @@ var config =
     */
     music:
     [
-        "dyT3MKaJAPc"
+        "dyT3MKaJAPc", "MX59reg-dAU", "d5iu1zAr4L4", "ESb-ot2psIA", "FG9M0aEpJGE", "XPbN2pQXe1o", "m_SSr-tbY_M"
     ],
  
  
@@ -125,16 +124,40 @@ var config =
     */
     background:
     [
+        "img/bg1.jpg",   
+        "img/bg2.jpg",
+        "img/bg3.jpg",
         "img/bg1.jpg",
         "img/bg2.jpg",
         "img/bg3.jpg",
+        "img/bg4.jpg",
+        "img/bg5.jpg",
+        "img/bg6.jpg",
+        "img/bg7.jpg",
+        "img/bg8.jpg",
+        "img/bg9.jpg",
+        "img/bg10.jpg",
+        "img/bg11.jpg",
+        "img/bg12.jpg",
+        "img/bg13.jpg",
+        "img/bg14.jpg",
+        "img/bg15.jpg",
+        "img/bg16.jpg",
+        "img/bg17.jpg",
+        "img/bg18.jpg",
+        "img/bg19.jpg",
+        "img/bg20.jpg",
+        "img/bg21.jpg",
+        "img/bg22.jpg",
+        "img/bg23.jpg",
+        "img/bg24.jpg",
     ],
  
     /*
         Time in milliseconds on how fast the background
         should swap images.
      */
-    backgroundSpeed: 10 * 1000,
+    backgroundSpeed: 7 * 1000,
 
     /*
         Which style of animation should the background transition be?
@@ -147,5 +170,5 @@ var config =
     /*
         Should the log be visible? Handy for debugging!
     */
-    enableLog: true,
+    enableLog: false,
 }
