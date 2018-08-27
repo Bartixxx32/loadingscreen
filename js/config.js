@@ -29,7 +29,7 @@ var config =
             1 = Multiple progressbars
             2 = Collapsed progressbars
      */
-    progressBarType: 2,
+    progressBarType: 1,
  
     /*
         Here you can disable some of progressbars.
@@ -42,11 +42,11 @@ var config =
         },
  
         "INIT_BEFORE_MAP_LOADED": {
-            enabled: true,
+            enabled: false,
         },
  
         "MAP": {
-            enabled: true,
+            enabled: false,
         },
  
         "INIT_AFTER_MAP_LOADED": {
@@ -68,7 +68,7 @@ var config =
     [
         "Witamy na NeedRP",
         "Zachowaj kulture",
-        "Developerzy to Bartixxx | DomixGaming",
+        "Developerzy to Bartixxx | Inco | Looky",
         "Skryptami zajmuje sie Bartixxx!",
         "Jesli masz jakis pomysł, napisz to na specjalnym kanale na Discordzie!",
         "Regulamin na Discordzie!",
@@ -76,6 +76,7 @@ var config =
         "Zabrania sie - RDM | VDM",
         "Nie masz co robic z pieniedzmi? Chetnie przyjmiemy donejta!",
         "Nasz Discord - https://discord.gg/evEwZdD",
+        "Pierwsze ładowanie na serwer może zatrzymać się na 100% przez dłuższą chwilę.",
      
     ],
  
@@ -97,7 +98,7 @@ var config =
     */
     music:
     [
-        "dyT3MKaJAPc", "MX59reg-dAU", "d5iu1zAr4L4", "ESb-ot2psIA", "FG9M0aEpJGE", "XPbN2pQXe1o", "m_SSr-tbY_M"
+        "S36ho0PoyX8", "MPhAmsVtgAs", "v9bRktNdMIw", "8NgzzdVqQyQ",
     ],
  
  
